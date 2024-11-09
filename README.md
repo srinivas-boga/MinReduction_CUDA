@@ -1,0 +1,1 @@
+# MinReduction_CUDA
